@@ -1,4 +1,4 @@
 # kickstart2021RoundA
-My submission for google kickstart2021 roundA
+My submission for google kickstart 2021 round A
 
 Only first exercice
